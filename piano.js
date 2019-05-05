@@ -14,4 +14,7 @@ var keys = [
   { note 'G', starts_at: 0, lasts: 3},
 ];
 // I also need a loop
-for (let notes = )
+for (let notes = 0);{
+
+}
+// unsure of the order, got stuck 
