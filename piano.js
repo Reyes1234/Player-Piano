@@ -13,5 +13,5 @@ var keys = [
   { note 'F', starts_at: 0, lasts: 3},
   { note 'G', starts_at: 0, lasts: 3},
 ];
-
-// I also need a loop 
+// I also need a loop
+for (let notes = )
