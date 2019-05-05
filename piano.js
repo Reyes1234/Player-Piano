@@ -18,3 +18,12 @@ for (let notes = 0);{
 
 }
 // unsure of the order, got stuck 
+     
+Outputs: 
+     Play A
+     Play B
+     Play C
+     Play D
+     Play E
+     Play F
+     Play G 
